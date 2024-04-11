@@ -1,0 +1,44 @@
+html{
+    background-image: url(background.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: beige;
+    background-color: black;
+}
+
+h2, h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+img{
+    height: 400px;
+    margin: 0;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.book{
+    background-color: bisque;
+    height: fit-content;
+    padding: 10px;
+    text-align: center;
+    margin: 100;
+    font-family: fantasy;
+    float: auto;
+    display: block;
+
+}
+
+
+footer{
+    text-align: center;
+    color: blue;
+    background-color: white;
+}
